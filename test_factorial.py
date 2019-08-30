@@ -1,6 +1,6 @@
 import unittest
 
-from "280lab5_1" import factorial
+from 280lab5_1 import factorial
 
 class FactorialTest(unittest.TestCase):
     def test_factorial(self):
